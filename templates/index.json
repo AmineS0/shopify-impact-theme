@@ -221,6 +221,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_ERY4cG": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/avantapresfinal.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -879,6 +895,7 @@
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
     "rich_text_jeTzyd",
+    "image_with_text_overlay_ERY4cG",
     "featured-collection",
     "impact-text",
     "custom_liquid_aNh9kL",
