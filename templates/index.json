@@ -253,6 +253,44 @@
             "link_style": "link"
           }
         },
+        "item_cPttAm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.45.07.png",
+            "column_size": "3",
+            "title": "Clara L.",
+            "heading_tag": "h4",
+            "content": "<p>\"C'est beau, ça sent bon, ça marche. Mes lèvres sont pulpeuses et éclatantes. J'ai même reçu des compliments dès le premier jour.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UDw8mU": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cxrkTW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.40.37.png",
+            "column_size": "3",
+            "title": "Leys.N",
+            "heading_tag": "h4",
+            "content": "<p>\"C’est devenu mon petit rituel du matin. Il hydrate, colore légèrement, et me donne meilleure mine sans aucun effort.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_h4CMbJ": {
           "type": "item",
           "settings": {
@@ -282,6 +320,9 @@
       },
       "block_order": [
         "item_3mCm7J",
+        "item_cPttAm",
+        "item_UDw8mU",
+        "item_cxrkTW",
         "item_h4CMbJ",
         "item_P7JHmG"
       ],
