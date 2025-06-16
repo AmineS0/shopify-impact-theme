@@ -269,10 +269,11 @@
         "item_UDw8mU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.51.03.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Jade C.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Je ne pars plus sans lui. Il me sauve à chaque retouche de dernière minute. Et il sent super bon !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
