@@ -256,10 +256,11 @@
         "item_h4CMbJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.22.44.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Camille R.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"J’ai les lèvres souvent sèches, mais avec celui-là je sens tout de suite l’hydratation. Il glisse tout seul et ne colle pas. Gros coup de cœur.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -268,10 +269,11 @@
         "item_P7JHmG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.36.09.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Santia.V",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Dès la première application, mes lèvres ont l’air plus rebondies, plus fraîches. La teinte est naturelle mais sublime. Je l’ai adopté sans hésiter.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
