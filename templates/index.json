@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/TEST_1_IMAGE_GLOW.png",
+            "image": "shopify://shop_images/bannerfinal.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -28,7 +28,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 0,
+            "overlay_opacity": 41,
             "background": "",
             "background_gradient": ""
           }
@@ -193,6 +193,32 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_jeTzyd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9mjqAG": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats Avant/Après",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_9mjqAG"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured-collection": {
@@ -852,6 +878,7 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
+    "rich_text_jeTzyd",
     "featured-collection",
     "impact-text",
     "custom_liquid_aNh9kL",
