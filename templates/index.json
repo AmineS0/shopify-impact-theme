@@ -153,6 +153,48 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_f6LzgK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_m7YAAd": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Zoumy Lips",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_m7YAAd"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_nAchrj": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benefices_glow_zoumy_gold_lips.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -808,6 +850,8 @@
     "impact_text_tDpwRp",
     "rich_text_QfjmEh",
     "logo_list_BADGxM",
+    "rich_text_f6LzgK",
+    "image_with_text_overlay_nAchrj",
     "featured-collection",
     "impact-text",
     "custom_liquid_aNh9kL",
