@@ -17,11 +17,11 @@
           "settings": {
             "image": "shopify://shop_images/TEST_1_IMAGE_GLOW.png",
             "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Lèvres sèches, ternes, oubliées ? Offrez-leur le soin qui révèle leur vraie couleur.",
-            "heading_tag": "h1",
+            "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
