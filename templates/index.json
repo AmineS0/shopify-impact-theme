@@ -475,6 +475,22 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_QV6mjk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/docteur.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -1041,6 +1057,7 @@
     "image_with_text_overlay_ERY4cG",
     "multi_column_fjUXkq",
     "featured-product",
+    "image_with_text_overlay_QV6mjk",
     "featured-collection",
     "impact-text",
     "custom_liquid_aNh9kL",
