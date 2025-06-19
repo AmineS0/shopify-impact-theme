@@ -426,6 +426,12 @@
           "settings": {
             "liquid": "<div class=\"delivery-box\">\n  <div class=\"delivery-step\">\n    <span class=\"delivery-icon\">🕘</span>\n    <div class=\"delivery-text\">\n      <span class=\"label\">Commande</span>\n      <strong>Aujourd'hui</strong>\n    </div>\n  </div>\n  <div class=\"arrow\">→</div>\n  <div class=\"delivery-step\">\n    <span class=\"delivery-icon\">📆</span>\n    <div class=\"delivery-text\">\n      <span class=\"label\">Livraison</span>\n      <strong>26–27 juin</strong>\n    </div>\n  </div>\n</div>\n\n<style>\n.delivery-box {\n  background-color: #efd697;\n  border-radius: 12px;\n  padding: 12px 20px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 28px;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  max-width: 600px;\n  margin: 0 auto;\n  box-shadow: 0 1px 4px rgba(0,0,0,0.05);\n}\n\n.delivery-step {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.delivery-icon {\n  font-size: 20px;\n  line-height: 1;\n}\n\n.label {\n  font-size: 13px;\n  color: #444;\n  display: block;\n}\n\n.delivery-text strong {\n  font-size: 15px;\n  color: #222;\n  font-weight: 600;\n}\n\n.arrow {\n  font-size: 22px;\n  color: #333;\n  margin: 0 8px;\n}\n</style>"
           }
+        },
+        "liquid_rFCaEm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"zoumy-preuve-sociale\">\n  <div class=\"texte-preuve\">\n    <h3>Un sourire sublimé en un geste</h3>\n    <p>\n      *Grâce à sa formule unique, le rouge à lèvres <strong>Zoumy™</strong> hydrate, adoucit et révèle une teinte rosée qui s’adapte à votre pH naturel.\n    </p>\n    <p>\n      <strong>100% des utilisatrices</strong> ont ressenti une sensation de confort immédiate et une amélioration visible de l’éclat des lèvres <em>(étude interne menée sur 20 femmes âgées de 25 à 55 ans)</em>.\n    </p>\n  </div>\n</div>\n\n<style>\n.zoumy-preuve-sociale {\n  background-color: #fff;\n  border-radius: 12px;\n  padding: 18px 20px;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  font-size: 14px;\n  color: #333;\n  max-width: 760px;\n  margin: 20px auto;\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);\n}\n.texte-preuve h3 {\n  margin: 0 0 10px;\n  font-size: 16px;\n  font-weight: 700;\n}\n.texte-preuve p {\n  margin: 6px 0;\n  line-height: 1.5;\n}\n.texte-preuve em {\n  font-style: italic;\n  color: #555;\n}\n</style>"
+          }
         }
       },
       "block_order": [
@@ -441,7 +447,8 @@
         "description",
         "buy-buttons",
         "liquid_hMefA9",
-        "liquid_tQka6j"
+        "liquid_tQka6j",
+        "liquid_rFCaEm"
       ],
       "settings": {
         "full_width": false,
