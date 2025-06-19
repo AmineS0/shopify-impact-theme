@@ -383,7 +383,7 @@
           "settings": {
             "image": "shopify://shop_images/etiquette_50.png",
             "alignment": "center",
-            "max_width": 320
+            "max_width": 280
           }
         },
         "separator": {
