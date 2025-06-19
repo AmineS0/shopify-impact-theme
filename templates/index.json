@@ -344,12 +344,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "liquid_4a8NUk": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    font-size: 16px;\n    font-weight: 600;\n    color: #000;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #efd697;\n    margin-right: 10px;\n    box-shadow: 0 0 0 rgba(239, 214, 151, 0.7);\n    animation: pulse 2s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      box-shadow: 0 0 0 0 rgba(239, 214, 151, 0.7);\n    }\n    70% {\n      box-shadow: 0 0 0 10px rgba(239, 214, 151, 0);\n    }\n    100% {\n      box-shadow: 0 0 0 0 rgba(239, 214, 151, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Plus que 3 en stock.\n</div>"
-          }
-        },
         "liquid_NTNQyV": {
           "type": "liquid",
           "settings": {
@@ -360,6 +354,12 @@
           "type": "title",
           "settings": {
             "heading_tag": "h5"
+          }
+        },
+        "liquid_4a8NUk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    font-size: 16px;\n    font-weight: 600;\n    color: #000;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #efd697;\n    margin-right: 10px;\n    box-shadow: 0 0 0 rgba(239, 214, 151, 0.7);\n    animation: pulse 2s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      box-shadow: 0 0 0 0 rgba(239, 214, 151, 0.7);\n    }\n    70% {\n      box-shadow: 0 0 0 10px rgba(239, 214, 151, 0);\n    }\n    100% {\n      box-shadow: 0 0 0 0 rgba(239, 214, 151, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Plus que 3 en stock.\n</div>"
           }
         },
         "badges": {
@@ -415,9 +415,9 @@
         }
       },
       "block_order": [
-        "liquid_4a8NUk",
         "liquid_NTNQyV",
         "title",
+        "liquid_4a8NUk",
         "badges",
         "price",
         "rating",
