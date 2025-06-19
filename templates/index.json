@@ -392,6 +392,12 @@
             "liquid": "<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    font-size: 16px;\n    font-weight: 600;\n    color: #000;\n  }\n\n  .pulse-dot {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #efd697;\n    margin-right: 10px;\n    box-shadow: 0 0 0 rgba(239, 214, 151, 0.7);\n    animation: pulse 2s infinite;\n  }\n\n  @keyframes pulse {\n    0% {\n      box-shadow: 0 0 0 0 rgba(239, 214, 151, 0.7);\n    }\n    70% {\n      box-shadow: 0 0 0 10px rgba(239, 214, 151, 0);\n    }\n    100% {\n      box-shadow: 0 0 0 0 rgba(239, 214, 151, 0);\n    }\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"pulse-dot\"></div>\n  Plus que 3 en stock.\n</div>"
           }
         },
+        "liquid_878pmb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 16px; color: #000; font-weight: 500;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" style=\"margin-right: 8px;\">\n    <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 4h13v13H3V4zm13 0l5 5v8h-5V4zm-8 13a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 018 17zm10 0a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 0118 17z\" />\n  </svg>\n  Livraison Gratuite\n</div>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -437,6 +443,7 @@
         "price",
         "rating",
         "liquid_4a8NUk",
+        "liquid_878pmb",
         "separator",
         "description",
         "variant-picker",
