@@ -207,6 +207,29 @@
         "text_color": ""
       }
     },
+    "rich_text_EY3ehM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kVWBwD": {
+          "type": "subheading",
+          "settings": {
+            "text": "Résultats avant après"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kVWBwD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_ERY4cG": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -216,7 +239,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/OKOKAAVANT.png",
-        "mobile_image": "shopify://shop_images/levre_mobile_eba6f359-1616-4014-9af9-3e8c1315d14a.png",
+        "mobile_image": "shopify://shop_images/avantapresfinal_9b221fcf-4927-4cd4-9c62-b5125595be51.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -862,6 +885,7 @@
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
     "rich_text_jeTzyd",
+    "rich_text_EY3ehM",
     "image_with_text_overlay_ERY4cG",
     "multi_column_fjUXkq",
     "featured-product",
