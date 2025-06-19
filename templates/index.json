@@ -517,6 +517,110 @@
         "text_color": ""
       }
     },
+    "multi_column_XFHtNm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_G8HCjJ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_2.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WzDji8": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_6.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_B4yhwJ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_1.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Hw3Nxy": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_5.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4f9CpT": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_4.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xHkVGG": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_3.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_G8HCjJ",
+        "item_WzDji8",
+        "item_B4yhwJ",
+        "item_Hw3Nxy",
+        "item_4f9CpT",
+        "item_xHkVGG"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -1005,6 +1109,7 @@
     "featured-product",
     "image_with_text_overlay_QV6mjk",
     "rich_text_YhdGcR",
+    "multi_column_XFHtNm",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
