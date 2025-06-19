@@ -344,9 +344,11 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_NTNQyV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <!-- Étoiles vertes -->\n  <div style=\"color: #00B67A; margin-right: 6px;\">\n    ★ ★ ★ ★ ★\n  </div>\n  \n  <!-- Note et nombre d'avis -->\n  <span style=\"color: #333;\">4.8 (589 avis)</span>\n</div>"
+          }
         },
         "title": {
           "type": "title",
@@ -407,7 +409,7 @@
         }
       },
       "block_order": [
-        "vendor",
+        "liquid_NTNQyV",
         "title",
         "badges",
         "price",
