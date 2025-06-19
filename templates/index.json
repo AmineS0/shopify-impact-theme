@@ -654,100 +654,108 @@
         "overlay_opacity": 0
       }
     },
-    "media-grid": {
-      "type": "media-grid",
+    "rich_text_r8zieg": {
+      "type": "rich-text",
       "blocks": {
-        "item-1": {
-          "type": "image",
+        "heading_AV9DWK": {
+          "type": "heading",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "text": "Sublimez vos lèvres & Révélez leur éclat naturel",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "item-2": {
-          "type": "image",
+        "subheading_XjfWff": {
+          "type": "subheading",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "text": "La magie de ZOUMY réside dans sa formule innovante aux ingrédients nourrissants et révélateurs de couleur."
           }
         },
-        "item-3": {
-          "type": "image",
+        "divider_tUEqW9": {
+          "type": "divider",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_AV9DWK",
+        "subheading_XjfWff",
+        "divider_tUEqW9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_rPdVAr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_a633Pg": {
+          "type": "item",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/PROD3.png",
+            "column_size": "3",
+            "title": "",
             "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "link_style": "link"
           }
         },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
+        "item_7zHWAC": {
+          "type": "item",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/PROD2.png",
+            "column_size": "3",
+            "title": "",
             "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "link_style": "link"
+          }
+        },
+        "item_6PEfUX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PROD4.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "item_a633Pg",
+        "item_7zHWAC",
+        "item_6PEfUX"
       ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -1112,6 +1120,8 @@
     "multi_column_XFHtNm",
     "impact-text",
     "image-with-text-overlay",
+    "rich_text_r8zieg",
+    "multi_column_rPdVAr",
     "media-grid",
     "before-after-image",
     "press",
