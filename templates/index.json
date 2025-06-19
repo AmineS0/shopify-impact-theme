@@ -197,20 +197,6 @@
     },
     "rich_text_jeTzyd": {
       "type": "rich-text",
-      "blocks": {
-        "heading_9mjqAG": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultats Avant/Après",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_9mjqAG"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
