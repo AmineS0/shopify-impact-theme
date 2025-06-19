@@ -344,12 +344,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "liquid_NTNQyV": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <!-- Étoiles vertes Trustpilot -->\n  {% for i in (1..5) %}\n    <span style=\"display: inline-block; width: 20px; height: 20px; background-color: #00B67A; color: white; text-align: center; line-height: 20px; border-radius: 2px; font-size: 14px; margin-right: 2px;\">★</span>\n  {% endfor %}\n\n  <!-- Note et nombre d'avis -->\n  <span style=\"margin-left: 8px; color: #000;\">\n    4.8 (589 avis)\n  </span>\n</div>"
-          }
-        },
         "liquid_YtdArU": {
           "type": "liquid",
           "settings": {
@@ -362,9 +356,23 @@
             "heading_tag": "h5"
           }
         },
+        "liquid_NTNQyV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <!-- Étoiles vertes Trustpilot -->\n  {% for i in (1..5) %}\n    <span style=\"display: inline-block; width: 20px; height: 20px; background-color: #00B67A; color: white; text-align: center; line-height: 20px; border-radius: 2px; font-size: 14px; margin-right: 2px;\">★</span>\n  {% endfor %}\n\n  <!-- Note et nombre d'avis -->\n  <span style=\"margin-left: 8px; color: #000;\">\n    4.8 (589 avis)\n  </span>\n</div>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
+        },
+        "image_ww7yYE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/photo_etiquette_50.png",
+            "alignment": "center",
+            "max_width": 450
+          }
         },
         "price": {
           "type": "price",
@@ -376,14 +384,6 @@
           "type": "rating",
           "settings": {
             "show_empty": false
-          }
-        },
-        "image_ww7yYE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/photo_etiquette_50.png",
-            "alignment": "center",
-            "max_width": 300
           }
         },
         "liquid_4a8NUk": {
@@ -429,13 +429,13 @@
         }
       },
       "block_order": [
-        "liquid_NTNQyV",
         "liquid_YtdArU",
         "title",
+        "liquid_NTNQyV",
         "badges",
+        "image_ww7yYE",
         "price",
         "rating",
-        "image_ww7yYE",
         "liquid_4a8NUk",
         "separator",
         "description",
