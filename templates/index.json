@@ -432,6 +432,12 @@
           "settings": {
             "liquid": "<div class=\"zoumy-preuve-sociale\">\n  <div class=\"texte-preuve\">\n    <h3>Un sourire sublimé en un geste</h3>\n    <p>\n      *Grâce à sa formule unique, le rouge à lèvres <strong>Zoumy™</strong> hydrate, adoucit et révèle une teinte rosée qui s’adapte à votre pH naturel.\n    </p>\n    <p>\n      <strong>100% des utilisatrices</strong> ont ressenti une sensation de confort immédiate et une amélioration visible de l’éclat des lèvres <em>(étude interne menée sur 20 femmes âgées de 25 à 55 ans)</em>.\n    </p>\n  </div>\n</div>\n\n<style>\n.zoumy-preuve-sociale {\n  background-color: #fff;\n  border-radius: 12px;\n  padding: 18px 20px;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  font-size: 14px;\n  color: #333;\n  max-width: 760px;\n  margin: 20px auto;\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);\n}\n.texte-preuve h3 {\n  margin: 0 0 10px;\n  font-size: 16px;\n  font-weight: 700;\n}\n.texte-preuve p {\n  margin: 6px 0;\n  line-height: 1.5;\n}\n.texte-preuve em {\n  font-style: italic;\n  color: #555;\n}\n</style>"
           }
+        },
+        "liquid_FL87eB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.zoumy-accordion {\n  max-width: 800px;\n  margin: 30px auto;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n}\n.zoumy-accordion-item {\n  border-bottom: 1px solid #eee;\n  padding: 18px 0;\n  cursor: pointer;\n}\n.zoumy-accordion-item h4 {\n  font-size: 18px;\n  font-weight: 600;\n  margin: 0;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.zoumy-accordion-item p {\n  margin-top: 10px;\n  font-size: 15px;\n  line-height: 1.6;\n  display: none;\n  color: #444;\n}\n.zoumy-accordion-item.open p {\n  display: block;\n}\n.zoumy-accordion-icon {\n  font-size: 24px;\n  transition: transform 0.3s ease;\n}\n.zoumy-accordion-item.open .zoumy-accordion-icon {\n  transform: rotate(45deg);\n}\n</style>\n\n<div class=\"zoumy-accordion\">\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Seul notre site garantit l’authenticité\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Le rouge à lèvres ZOUMY™ est uniquement disponible sur notre site officiel. Cela garantit une formule originale, des résultats visibles et une sécurité optimale.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Ingrédients\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Feuille d’or 24K, carotte (bêta-carotène), cire d’abeille, avocat, huile de ricin, squalane, vitamine E. Formule végane, non testée sur les animaux.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Utilisation\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Appliquez directement sur les lèvres, comme un baume classique. En quelques secondes, la couleur s’adapte à votre pH pour révéler une teinte unique et naturelle.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Combien de temps dure l'effet ?\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      La couleur s’intensifie en quelques secondes et reste visible pendant plusieurs heures. Vos lèvres restent hydratées et douces toute la journée.\n    </p>\n  </div>\n</div>\n\n<script>\ndocument.querySelectorAll('.zoumy-accordion-item').forEach(item => {\n  item.addEventListener('click', () => {\n    item.classList.toggle('open');\n  });\n});\n</script>"
+          }
         }
       },
       "block_order": [
@@ -448,7 +454,8 @@
         "buy-buttons",
         "liquid_hMefA9",
         "liquid_tQka6j",
-        "liquid_rFCaEm"
+        "liquid_rFCaEm",
+        "liquid_FL87eB"
       ],
       "settings": {
         "full_width": false,
