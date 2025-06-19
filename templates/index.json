@@ -818,12 +818,20 @@
             "title": "Quel est le délai de livraison ?",
             "content": "<p>Votre commande sera livrée sous <strong>5 à 7 jours ouvrés</strong>.<br/><br/>Un e-mail de suivi vous sera envoyé à chaque étape pour vous tenir informé(e) de l’avancement de la livraison.</p>"
           }
+        },
+        "item_VQU7zU": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<p><strong>1.</strong> Assurez-vous que vos lèvres soient propres et sèches avant application.<br/><br/><strong>2.</strong> Tournez légèrement le bas du tube pour faire sortir une petite quantité de baume.<br/><br/><strong>3. </strong>Appliquez directement sur vos lèvres : la texture fond au contact et s’adapte à votre pH pour révéler une teinte rosée naturelle.<br/><br/><strong>4.</strong> Laissez le produit se fondre quelques secondes : la couleur devient plus intense au fil des minutes.<br/><br/><strong>5. </strong>Pour un effet encore plus glowy, appliquez une seconde couche après 2 minutes.</p><p><em>Zoumy Rosy Glow peut s’utiliser seul ou comme base hydratante avant votre rouge à lèvres préféré.</em></p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_VQU7zU"
       ],
       "settings": {
         "full_width": false,
