@@ -398,31 +398,11 @@
             "liquid": "<div style=\"display: flex; align-items: center; font-size: 16px; color: #000; font-weight: 500;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" style=\"margin-right: 8px;\">\n    <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 4h13v13H3V4zm13 0l5 5v8h-5V4zm-8 13a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 018 17zm10 0a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 0118 17z\" />\n  </svg>\n  Livraison Gratuite\n</div>"
           }
         },
-        "liquid_hMefA9": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"margin-top: -18px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0870/2204/3320/files/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 10px;\">\n￼"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
             "collapse_content": false
           }
-        },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy-buttons": {
           "type": "buy_buttons",
@@ -433,6 +413,12 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "liquid_hMefA9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"margin-top: -18px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0870/2204/3320/files/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 10px;\">\n￼"
           }
         }
       },
@@ -446,11 +432,9 @@
         "rating",
         "liquid_4a8NUk",
         "liquid_878pmb",
-        "liquid_hMefA9",
         "description",
-        "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "liquid_hMefA9"
       ],
       "settings": {
         "full_width": false,
