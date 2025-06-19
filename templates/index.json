@@ -347,7 +347,7 @@
         "liquid_NTNQyV": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <!-- Étoiles vertes -->\n  <div style=\"color: #00B67A; margin-right: 6px;\">\n    ★ ★ ★ ★ ★\n  </div>\n  \n  <!-- Note et nombre d'avis -->\n  <span style=\"color: #333;\">4.8 (589 avis)</span>\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <!-- Étoiles vertes Trustpilot -->\n  {% for i in (1..5) %}\n    <span style=\"display: inline-block; width: 20px; height: 20px; background-color: #00B67A; color: white; text-align: center; line-height: 20px; border-radius: 2px; font-size: 14px; margin-right: 2px;\">★</span>\n  {% endfor %}\n\n  <!-- Note et nombre d'avis -->\n  <span style=\"margin-left: 8px; color: #000;\">\n    4.8 (589 avis)\n  </span>\n</div>"
           }
         },
         "title": {
