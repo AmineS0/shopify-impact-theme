@@ -491,6 +491,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_YhdGcR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rgTcx9": {
+          "type": "heading",
+          "settings": {
+            "text": "Des résultats concrets",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rgTcx9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -978,6 +1004,7 @@
     "multi_column_fjUXkq",
     "featured-product",
     "image_with_text_overlay_QV6mjk",
+    "rich_text_YhdGcR",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
