@@ -14,16 +14,40 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_BLY9bY": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Payement sécurisé",
+            "url": ""
+          }
+        },
+        "message_8nLF6J": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé",
+            "url": ""
+          }
+        },
+        "message_pd6npJ": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite à domicile",
+            "url": ""
+          }
+        },
+        "message_CVQqBB": {
+          "type": "message",
+          "settings": {
+            "text": "Offre limitée approche d'été : -50%",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_BLY9bY",
+        "message_8nLF6J",
+        "message_pd6npJ",
+        "message_CVQqBB"
       ],
       "settings": {
         "enable_sticky": false,
