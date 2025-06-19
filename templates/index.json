@@ -825,13 +825,21 @@
             "title": "Comment l'utiliser ?",
             "content": "<p><strong>1.</strong> Assurez-vous que vos lèvres soient propres et sèches avant application.<br/><br/><strong>2.</strong> Tournez légèrement le bas du tube pour faire sortir une petite quantité de baume.<br/><br/><strong>3. </strong>Appliquez directement sur vos lèvres : la texture fond au contact et s’adapte à votre pH pour révéler une teinte rosée naturelle.<br/><br/><strong>4.</strong> Laissez le produit se fondre quelques secondes : la couleur devient plus intense au fil des minutes.<br/><br/><strong>5. </strong>Pour un effet encore plus glowy, appliquez une seconde couche après 2 minutes.</p><p><em>Zoumy Rosy Glow peut s’utiliser seul ou comme base hydratante avant votre rouge à lèvres préféré.</em></p>"
           }
+        },
+        "item_kHPwrh": {
+          "type": "item",
+          "settings": {
+            "title": "Ingrédients clés",
+            "content": "<p>• <strong>Essence végétale nourrissante</strong> – hydrate et revitalise intensément<br/><br/>• <strong>Huile d’avocat</strong> – riche en acides gras et vitamines, elle adoucit et protège les lèvres du dessèchement<br/><br/>• <strong>Huile minérale</strong> – forme une barrière protectrice et lissante<br/><br/>• <strong>Cire d’abeille blanche</strong> – offre un confort longue durée et une texture fondante<br/><br/>• <strong>Extrait de fleur de calendula</strong> – apaise et régénère les lèvres sensibles<br/><br/>• <strong>Éthylhexylglycérine</strong> – agent hydratant doux, parfait pour un usage quotidien<br/><br/>• <strong>Acide hyaluronique</strong> – repulpe naturellement pour un effet lissant immédiat<br/><br/>• <strong>Vitamine E (phénol d’or)</strong> – protège contre les agressions extérieures grâce à son pouvoir antioxydant<br/><br/>• <strong>Fertility Complex</strong> – un complexe exclusif favorisant l’éclat rosé naturel</p><p><em>Zoumy Rosy Glow peut s’utiliser seul ou comme base hydratante avant votre rouge à lèvres préféré.</em></p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_VQU7zU"
+        "item_VQU7zU",
+        "item_kHPwrh"
       ],
       "settings": {
         "full_width": false,
