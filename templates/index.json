@@ -801,22 +801,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Pourquoi acheter uniquement sur notre site officiel ?",
+            "content": "<p>Zoumy Rosy Glow est exclusivement disponible sur notre site officiel. Toute vente sur des plateformes tierces peut concerner des copies de mauvaise qualité.<br/><br/>Pour garantir l’authenticité, l’efficacité et la sécurité de votre expérience, commandez uniquement sur zoumy.fr.<br/><br/>Nous ne prenons aucune responsabilité pour les produits achetés ailleurs.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Livrez-vous à l’international ?",
+            "content": "<p>Oui, nous livrons dans le monde entier. Une fois votre commande passée, vous recevrez un suivi détaillé par e-mail.<br/><br/>Les délais de livraison varient généralement entre <strong>5 et 7 jours ouvrés</strong> selon votre localisation.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Votre commande sera livrée sous <strong>5 à 7 jours ouvrés</strong>.<br/><br/>Un e-mail de suivi vous sera envoyé à chaque étape pour vous tenir informé(e) de l’avancement de la livraison.</p>"
           }
         }
       },
@@ -829,13 +829,13 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
