@@ -209,17 +209,6 @@
     },
     "rich_text_EY3ehM": {
       "type": "rich-text",
-      "blocks": {
-        "subheading_kVWBwD": {
-          "type": "subheading",
-          "settings": {
-            "text": "Résultats avant après"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_kVWBwD"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
