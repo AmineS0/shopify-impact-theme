@@ -491,50 +491,8 @@
         "overlay_opacity": 0
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0"
-      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -551,57 +509,19 @@
         "button_text_color": ""
       }
     },
-    "custom_liquid_aNh9kL": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n.video-carousel-container {\n  width: 100%;\n  overflow: hidden;\n  position: relative;\n  margin-top: 0px; \n  margin-bottom: 0px; \n}\n\n.video-carousel-track {\n  display: flex;\n  gap: 15px; \n  overflow-x: scroll; \n  scroll-snap-type: x mandatory; \n  padding: 10px;\n  -webkit-overflow-scrolling: touch; \n}\n\n.video-carousel-track::-webkit-scrollbar {\n  display: none; \n}\n\n.video-carousel-item {\n  flex-shrink: 0;\n  width: 200px; \n  height: 350px; \n  border-radius: 10px; \n  overflow: hidden;\n  scroll-snap-align: start; /* Alignement précis pour chaque vidéo */\n  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.video-carousel-item video {\n  width: 100%;\n  height: 100%;\n  object-fit: cover; \n  pointer-events: none;\n}\n</style>\n\n<div class=\"video-carousel-container\">\n  <div class=\"video-carousel-track\">\n    <!-- Vidéos -->\n<div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/votre-lien.mp4\" muted autoplay loop playsinline></video>\n    </div>\n    <div class=\"video-carousel-item\">\n \n      <video src=\"https://cdn.shopify.com/votre-lien.mp4\" muted autoplay loop playsinline></video>\n    </div>\n    <div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/votre-lien.mp4\" muted autoplay loop playsinline></video>\n\n    </div>\n\n\n  </div>\n</div>\nNOUVEAU",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/AVIS_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "media-grid": {
@@ -1058,9 +978,7 @@
     "multi_column_fjUXkq",
     "featured-product",
     "image_with_text_overlay_QV6mjk",
-    "featured-collection",
     "impact-text",
-    "custom_liquid_aNh9kL",
     "image-with-text-overlay",
     "media-grid",
     "before-after-image",
