@@ -660,6 +660,7 @@
       "blocks": {
         "heading_AV9DWK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Sublimez vos lèvres & Révélez leur éclat naturel",
             "heading_tag": "h6",
@@ -669,6 +670,7 @@
         },
         "subheading_XjfWff": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "La magie de ZOUMY réside dans sa formule innovante aux ingrédients nourrissants et révélateurs de couleur."
           }
