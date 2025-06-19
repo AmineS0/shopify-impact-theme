@@ -230,6 +230,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/OKOKAAVANT.png",
+        "mobile_image": "shopify://shop_images/levre_mobile_eba6f359-1616-4014-9af9-3e8c1315d14a.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
