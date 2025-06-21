@@ -459,6 +459,14 @@
             "liquid": "<div style=\"margin-top: -16px;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0920/3738/2524/files/APPLEPAY.avif?v=1750527950\" \n    style=\"width:60%; max-width: 420px; display: block; margin: 0 auto 25px;\"\n    alt=\"Moyens de paiement\"\n  >\n</div>"
           }
         },
+        "image_iCYzJN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OFFRE1.webp",
+            "alignment": "center",
+            "max_width": 410
+          }
+        },
         "liquid_FL87eB": {
           "type": "liquid",
           "settings": {
@@ -484,6 +492,7 @@
         "description",
         "buy-buttons",
         "liquid_hMefA9",
+        "image_iCYzJN",
         "liquid_FL87eB",
         "liquid_rFCaEm"
       ],
