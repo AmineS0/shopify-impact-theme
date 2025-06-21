@@ -388,12 +388,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "liquid_YtdArU": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"font-style: italic; font-size: 16px; color: #333; line-height: 1.6; max-width: 700px; margin: 0 auto; text-align: center;\">\n  <p>\n    \"Zoumy Rosy Glow a transformé mes lèvres. Elles sont plus douces, hydratées et la couleur s’adapte parfaitement à mon teint. C’est devenu mon indispensable beauté au quotidien.\"\n  </p>\n  <p style=\"font-weight: bold; margin-top: 10px;\">– Claire D.</p>\n</div>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -479,7 +473,6 @@
         }
       },
       "block_order": [
-        "liquid_YtdArU",
         "title",
         "liquid_NTNQyV",
         "badges",
