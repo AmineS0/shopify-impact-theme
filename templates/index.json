@@ -404,18 +404,18 @@
           "type": "badges",
           "settings": {}
         },
+        "kaching_bundles_app_block_CRwtgh": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "image_ww7yYE": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/photo_etiquette_50.png",
             "alignment": "center",
             "max_width": 450
-          }
-        },
-        "kaching_bundles_app_block_CRwtgh": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "rating": {
@@ -476,8 +476,8 @@
         "title",
         "liquid_NTNQyV",
         "badges",
-        "image_ww7yYE",
         "kaching_bundles_app_block_CRwtgh",
+        "image_ww7yYE",
         "rating",
         "liquid_4a8NUk",
         "liquid_878pmb",
