@@ -459,22 +459,22 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_FL87eB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.zoumy-accordion {\n  max-width: 700px;\n  margin: 10px auto;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  font-size: 14px;\n}\n.zoumy-accordion-item {\n  border-bottom: 1px solid #ddd;\n  padding: 12px 0;\n  cursor: pointer;\n}\n.zoumy-accordion-item h4 {\n  font-size: 15px;\n  font-weight: 500;\n  margin: 0;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.zoumy-accordion-item p {\n  margin-top: 6px;\n  font-size: 13.5px;\n  line-height: 1.5;\n  display: none;\n  color: #333;\n}\n.zoumy-accordion-item.open p {\n  display: block;\n}\n.zoumy-accordion-icon {\n  font-size: 20px;\n  transition: transform 0.2s ease;\n}\n.zoumy-accordion-item.open .zoumy-accordion-icon {\n  transform: rotate(45deg);\n}\n</style>\n\n<div class=\"zoumy-accordion\">\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Seul notre site garantit l’authenticité\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Commandez exclusivement sur zoumy.fr pour être certain(e) d’obtenir la formule originale, testée, et reconnue par des milliers d’utilisatrices.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Ingrédients\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Carotène, cire d’abeille, avocat, squalane, huile de ricin, vitamine E.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Utilisation\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Appliquez directement sur vos lèvres. En quelques secondes, la couleur se révèle et s’adapte à votre teint.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Combien de temps dure l'effet ?\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      L’effet coloré tient plusieurs heures. L’hydratation, elle, dure toute la journée.\n    </p>\n  </div>\n</div>\n\n<script>\ndocument.querySelectorAll('.zoumy-accordion-item').forEach(item => {\n  item.addEventListener('click', () => {\n    item.classList.toggle('open');\n  });\n});\n</script>"
+          }
+        },
         "liquid_hMefA9": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"margin-top: -18px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0870/2204/3320/files/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 10px;\">\n￼"
+            "liquid": "<div style=\"margin-top: -18px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0870/2204/3320/files/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 10px;\">\n</div>"
           }
         },
         "liquid_rFCaEm": {
           "type": "liquid",
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Témoignage Dr Lemoine</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      margin: 0;\n      padding: 16px;\n      background-color: #f5f5f5;\n    }\n\n    .testimonial-container {\n      display: flex;\n      flex-direction: row;\n      align-items: flex-start;\n      border: 1px solid #e1e1e1;\n      padding: 16px;\n      border-radius: 12px;\n      background-color: #ffffff;\n      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);\n    }\n\n    .profile-image {\n      flex-shrink: 0;\n      margin-right: 12px;\n    }\n\n    .profile-image img {\n      border-radius: 50%;\n      width: 60px;\n      height: 60px;\n      object-fit: cover;\n    }\n\n    .testimonial-content {\n      flex: 1;\n    }\n\n    .stars-container {\n      margin-bottom: 6px;\n    }\n\n    .stars-image {\n      width: 90px;\n      height: auto;\n    }\n\n    .testimonial-text {\n      font-style: italic;\n      font-size: 14px;\n      color: #333;\n      margin: 8px 0;\n      line-height: 1.5;\n    }\n\n    .doctor-verification {\n      display: flex;\n      align-items: center;\n      margin-top: 6px;\n    }\n\n    .checkmark {\n      width: 18px;\n      height: 18px;\n      margin-right: 6px;\n    }\n\n    .doctor-name {\n      font-weight: 600;\n      font-size: 14px;\n      color: #333;\n    }\n\n    @media (max-width: 480px) {\n      .testimonial-container {\n        padding: 14px;\n      }\n\n      .stars-image {\n        width: 80px;\n      }\n\n      .testimonial-text {\n        font-size: 13.5px;\n      }\n    }\n  </style>\n</head>\n<body>\n  <div class=\"testimonial-container\">\n    <div class=\"profile-image\">\n      <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Dr Lemoine\">\n    </div>\n    <div class=\"testimonial-content\">\n      <div class=\"stars-container\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0932/1719/4322/files/stars-4.5.svg?v=1748649672\" alt=\"Stars\" class=\"stars-image\">\n      </div>\n      <p class=\"testimonial-text\">\n        \"Je recommande ZOUMY à mes patientes. Ce rouge à lèvres hydrate en profondeur, repulpe les lèvres et révèle une teinte rosée unique selon le pH.\"\n      </p>\n      <div class=\"doctor-verification\">\n        <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" class=\"checkmark\">\n        <span class=\"doctor-name\">Dr Lemoine</span>\n      </div>\n    </div>\n  </div>\n</body>\n</html>"
-          }
-        },
-        "liquid_FL87eB": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.zoumy-accordion {\n  max-width: 700px;\n  margin: 10px auto;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  font-size: 14px;\n}\n.zoumy-accordion-item {\n  border-bottom: 1px solid #ddd;\n  padding: 12px 0;\n  cursor: pointer;\n}\n.zoumy-accordion-item h4 {\n  font-size: 15px;\n  font-weight: 500;\n  margin: 0;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.zoumy-accordion-item p {\n  margin-top: 6px;\n  font-size: 13.5px;\n  line-height: 1.5;\n  display: none;\n  color: #333;\n}\n.zoumy-accordion-item.open p {\n  display: block;\n}\n.zoumy-accordion-icon {\n  font-size: 20px;\n  transition: transform 0.2s ease;\n}\n.zoumy-accordion-item.open .zoumy-accordion-icon {\n  transform: rotate(45deg);\n}\n</style>\n\n<div class=\"zoumy-accordion\">\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Seul notre site garantit l’authenticité\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Commandez exclusivement sur zoumy.fr pour être certain(e) d’obtenir la formule originale, testée, et reconnue par des milliers d’utilisatrices.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Ingrédients\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Carotène, cire d’abeille, avocat, squalane, huile de ricin, vitamine E.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Utilisation\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      Appliquez directement sur vos lèvres. En quelques secondes, la couleur se révèle et s’adapte à votre teint.\n    </p>\n  </div>\n\n  <div class=\"zoumy-accordion-item\">\n    <h4>\n      Combien de temps dure l'effet ?\n      <span class=\"zoumy-accordion-icon\">+</span>\n    </h4>\n    <p>\n      L’effet coloré tient plusieurs heures. L’hydratation, elle, dure toute la journée.\n    </p>\n  </div>\n</div>\n\n<script>\ndocument.querySelectorAll('.zoumy-accordion-item').forEach(item => {\n  item.addEventListener('click', () => {\n    item.classList.toggle('open');\n  });\n});\n</script>"
           }
         }
       },
@@ -490,9 +490,9 @@
         "liquid_878pmb",
         "description",
         "buy-buttons",
+        "liquid_FL87eB",
         "liquid_hMefA9",
-        "liquid_rFCaEm",
-        "liquid_FL87eB"
+        "liquid_rFCaEm"
       ],
       "settings": {
         "full_width": false,
