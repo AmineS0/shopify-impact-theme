@@ -196,6 +196,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_CrdE8U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FRWADB": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats Avant/Après",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_FRWADB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_jeTzyd": {
       "type": "rich-text",
       "name": "Rich text",
@@ -247,7 +273,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/OKOKAAVANT.png",
-        "mobile_image": "shopify://shop_images/TEST1.png",
+        "mobile_image": "shopify://shop_images/TEST1_fb7af594-8134-4d9b-979a-532b35c8691b.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -894,6 +920,7 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
+    "rich_text_CrdE8U",
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
     "image_with_text_overlay_ERY4cG",
