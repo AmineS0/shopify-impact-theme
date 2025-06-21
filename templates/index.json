@@ -456,7 +456,7 @@
         "liquid_hMefA9": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"margin-top: -16px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0870/2204/3320/files/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 25px;\">\n</div>"
+            "liquid": "<div style=\"margin-top: -16px;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0920/3738/2524/files/APPLEPAY.avif?v=1750527950\" \n    style=\"width:100%; max-width: 400px; display: block; margin: 0 auto 25px;\"\n    alt=\"Moyens de paiement\"\n  >\n</div>"
           }
         },
         "liquid_FL87eB": {
