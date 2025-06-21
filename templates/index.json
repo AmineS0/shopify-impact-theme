@@ -751,17 +751,6 @@
         "overlay_opacity": 0
       }
     },
-    "media-grid": {
-      "type": "media-grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "press": {
       "type": "press",
       "settings": {
@@ -866,7 +855,6 @@
     "multi_column_rPdVAr",
     "image-with-text-overlay",
     "image_with_text_overlay_YdT3P8",
-    "media-grid",
     "press",
     "faq"
   ]
