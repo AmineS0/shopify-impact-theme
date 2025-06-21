@@ -161,7 +161,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Zoumy Rosy Glow",
-            "heading_tag": "h5",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -203,7 +203,7 @@
           "type": "heading",
           "settings": {
             "text": "Résultats Avant/Après",
-            "heading_tag": "h5",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
