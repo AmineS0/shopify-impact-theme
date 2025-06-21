@@ -203,7 +203,7 @@
           "type": "heading",
           "settings": {
             "text": "Résultats Avant/Après",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
