@@ -519,49 +519,6 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_QV6mjk": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/docteur.png",
-        "mobile_image": "shopify://shop_images/DOCTORMOBILE.png",
-        "mobile_text_position": "place-self-end text-end",
-        "desktop_text_position": "sm:place-self-end sm:text-end",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_YhdGcR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_rgTcx9": {
-          "type": "heading",
-          "settings": {
-            "text": "Des résultats concrets",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_rgTcx9"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_XFHtNm": {
       "type": "multi-column",
       "blocks": {
@@ -666,6 +623,35 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_QV6mjk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/docteur.png",
+        "mobile_image": "shopify://shop_images/DOCTORMOBILE.png",
+        "mobile_text_position": "place-self-end text-end",
+        "desktop_text_position": "sm:place-self-end sm:text-end",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_YhdGcR": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -686,6 +672,7 @@
     },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -927,9 +914,9 @@
     "image_with_text_overlay_JXaCmA",
     "multi_column_fjUXkq",
     "featured-product",
+    "multi_column_XFHtNm",
     "image_with_text_overlay_QV6mjk",
     "rich_text_YhdGcR",
-    "multi_column_XFHtNm",
     "impact-text",
     "image-with-text-overlay",
     "rich_text_r8zieg",
