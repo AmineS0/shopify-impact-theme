@@ -430,12 +430,6 @@
             "show_empty": false
           }
         },
-        "liquid_878pmb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; font-size: 16px; color: #000; font-weight: 500;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" style=\"margin-right: 8px;\">\n    <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 4h13v13H3V4zm13 0l5 5v8h-5V4zm-8 13a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 018 17zm10 0a1.5 1.5 0 11-3.001-.001A1.5 1.5 0 0118 17z\" />\n  </svg>\n  Livraison Gratuite\n</div>"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -488,7 +482,6 @@
         "kaching_bundles_app_block_CRwtgh",
         "image_ww7yYE",
         "rating",
-        "liquid_878pmb",
         "description",
         "buy-buttons",
         "liquid_hMefA9",
