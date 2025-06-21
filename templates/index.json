@@ -743,7 +743,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/SATISFAIT.png",
-        "mobile_image": "shopify://shop_images/garantie_mobile_2bd83abd-6e70-4366-ae9b-3c154b4921ff.png",
+        "mobile_image": "shopify://shop_images/okbanner_76046081-4e07-4dd7-8abf-b032ddd90b31.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
