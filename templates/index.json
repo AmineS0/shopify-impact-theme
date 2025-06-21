@@ -196,38 +196,56 @@
         "overlay_opacity": 0
       }
     },
-    "multi_column_UjARf6": {
-      "type": "multi-column",
+    "impact_text_7g6Kdy": {
+      "type": "impact-text",
       "blocks": {
-        "item_RVtjXp": {
+        "item_bygF74": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVAPRES.png",
-            "column_size": "3",
             "title": "",
-            "heading_tag": "h6",
+            "subheading": "Résultats Avant/Après",
             "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "item_RVtjXp"
+        "item_bygF74"
       ],
-      "name": "Multi-column",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "small",
+        "stack_mobile": true,
         "text_alignment": "center",
-        "subheading": "",
-        "title": "Résultats Avant/Après",
-        "content": "",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_336qgm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_jeTzyd": {
@@ -867,7 +885,8 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
-    "multi_column_UjARf6",
+    "impact_text_7g6Kdy",
+    "image_with_text_overlay_336qgm",
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
     "image_with_text_overlay_ERY4cG",
