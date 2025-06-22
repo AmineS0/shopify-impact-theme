@@ -291,6 +291,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_E8DrLa": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align: center; padding: 20px;\">\n  <h2 style=\"font-size: 24px; font-weight: 700; color: #333;\">Nos clientes en parlent le mieux</h2>\n  <p style=\"font-size: 18px; margin: 10px 0;\">\n    Excellent <strong style=\"font-size: 22px;\">4.8</strong> / 5\n  </p>\n  <div style=\"display: inline-flex; gap: 4px; margin-top: 10px;\">\n    {% for i in (1..5) %}\n      <div style=\"background-color: #00B67A; padding: 4px 6px; border-radius: 3px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"white\" width=\"16\" height=\"16\">\n          <path d=\"M12 17.3l6.18 3.9-1.64-7.03L21 9.24l-7.19-.61L12 2 10.19 8.63 3 9.24l5.46 4.93-1.64 7.03z\"/>\n        </svg>\n      </div>\n    {% endfor %}\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_fjUXkq": {
       "type": "multi-column",
       "blocks": {
@@ -388,7 +401,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clientes en parlent le mieux",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -891,6 +904,7 @@
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
     "image_with_text_overlay_ERY4cG",
+    "custom_liquid_E8DrLa",
     "multi_column_fjUXkq",
     "featured-product",
     "multi_column_XFHtNm",
