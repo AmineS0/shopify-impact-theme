@@ -203,7 +203,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<!-- Vidéo compacte, centrée -->\n<div style=\"display: flex; justify-content: center; padding: 40px 0;\">\n  <div style=\"max-width: 360px; width: 100%; text-align: center;\">\n    <h2 style=\"font-size: 22px; font-weight: 700; margin-bottom: 16px;\">Découvrez Zoumy en action</h2>\n    <video controls playsinline muted autoplay loop style=\"width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/ae718eb6e53e47d188a665a13624605e.mov\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture de cette vidéo.\n    </video>\n  </div>\n</div>",
+        "liquid": "<!-- Vidéo compacte, centrée, sans contrôles -->\n<div style=\"display: flex; justify-content: center; padding: 40px 0;\">\n  <div style=\"max-width: 360px; width: 100%; text-align: center;\">\n    <h2 style=\"font-size: 22px; font-weight: 700; margin-bottom: 16px;\">Découvrez Zoumy en action</h2>\n    <video autoplay loop muted playsinline style=\"width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/ae718eb6e53e47d188a665a13624605e.mov\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture de cette vidéo.\n    </video>\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
