@@ -458,7 +458,7 @@
           "settings": {
             "image": "shopify://shop_images/offre_ban_50.png",
             "alignment": "center",
-            "max_width": 450
+            "max_width": 280
           }
         },
         "rating": {
