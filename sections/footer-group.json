@@ -108,7 +108,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p><strong> Service client : </strong></p><p><strong>Service client</strong>: contact@zoumy.fr</p><p> <strong>Lundi au Vendredi</strong> : 9h00 – 12h00 / 14h00 – 18h00<br/><br/><strong>Samedi & Dimanche</strong> : 10h00 – 12h00</p>",
+            "content": "<p><strong>Service client</strong>: contact@zoumy.fr</p><p> <strong>Lundi au Vendredi</strong> : 9h00 – 12h00 / 14h00 – 18h00<br/><br/><strong>Samedi & Dimanche</strong> : 10h00 – 12h00</p>",
             "enable_follow_on_shop": false
           }
         }
