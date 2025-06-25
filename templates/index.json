@@ -189,6 +189,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/finish_angle_4db7a0db-a7c7-4108-bd63-189f03023ca3.png",
+        "mobile_image": "shopify://shop_images/finish_angle_4db7a0db-a7c7-4108-bd63-189f03023ca3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
