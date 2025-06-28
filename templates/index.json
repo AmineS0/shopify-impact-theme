@@ -458,6 +458,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_hxgRNr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROMO2.png",
+            "alignment": "center",
+            "max_width": 410
+          }
+        },
         "image_ww7yYE": {
           "type": "image",
           "disabled": true,
@@ -482,7 +490,7 @@
         "liquid_mQAtN8": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"text-align:center; margin: 20px auto;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0920/3738/2524/files/PROMO2.png?v=1751150982\" \n    alt=\"Promotion spéciale\" \n    style=\"max-width:100%; height:auto; margin-bottom:15px;\"\n  />\n\n  <div style=\"font-family:Arial, sans-serif; font-size:18px; font-weight:bold; margin-bottom:10px;\">\n    Offre limitée se termine dans :\n  </div>\n\n  <div id=\"countdown\" style=\"display:flex; justify-content:center; align-items:center; gap:10px; font-size:18px;\">\n    <div style=\"text-align:center;\">\n      <div id=\"days\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Jrs</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"hours\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Hrs</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"minutes\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Mins</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"seconds\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Secs</div>\n    </div>\n  </div>\n</div>\n\n<script>\n  function startCountdown(duration) {\n    let timer = duration;\n\n    const daysEl = document.getElementById('days');\n    const hoursEl = document.getElementById('hours');\n    const minutesEl = document.getElementById('minutes');\n    const secondsEl = document.getElementById('seconds');\n\n    const interval = setInterval(() => {\n      const days = Math.floor(timer / 86400);\n      const hours = Math.floor((timer % 86400) / 3600);\n      const minutes = Math.floor((timer % 3600) / 60);\n      const seconds = timer % 60;\n\n      daysEl.textContent = String(days).padStart(2, '0');\n      hoursEl.textContent = String(hours).padStart(2, '0');\n      minutesEl.textContent = String(minutes).padStart(2, '0');\n      secondsEl.textContent = String(seconds).padStart(2, '0');\n\n      if (--timer < 0) {\n        clearInterval(interval);\n        daysEl.textContent = '00';\n        hoursEl.textContent = '00';\n        minutesEl.textContent = '00';\n        secondsEl.textContent = '00';\n      }\n    }, 1000);\n  }\n\n  document.addEventListener('DOMContentLoaded', () => {\n    const totalSeconds = 10 * 60 + 23;\n    startCountdown(totalSeconds);\n  });\n</script>"
+            "liquid": "<div style=\"text-align:center; margin: 20px auto;\">\n\n  <div style=\"font-family:Arial, sans-serif; font-size:18px; font-weight:bold; margin-bottom:10px;\">\n    Offre limitée se termine dans :\n  </div>\n\n  <div id=\"countdown\" style=\"display:flex; justify-content:center; align-items:center; gap:10px; font-size:18px;\">\n    <div style=\"text-align:center;\">\n      <div id=\"days\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Jrs</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"hours\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Hrs</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"minutes\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Mins</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"seconds\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Secs</div>\n    </div>\n  </div>\n</div>\n\n<script>\n  function startCountdown(duration) {\n    let timer = duration;\n\n    const daysEl = document.getElementById('days');\n    const hoursEl = document.getElementById('hours');\n    const minutesEl = document.getElementById('minutes');\n    const secondsEl = document.getElementById('seconds');\n\n    const interval = setInterval(() => {\n      const days = Math.floor(timer / 86400);\n      const hours = Math.floor((timer % 86400) / 3600);\n      const minutes = Math.floor((timer % 3600) / 60);\n      const seconds = timer % 60;\n\n      daysEl.textContent = String(days).padStart(2, '0');\n      hoursEl.textContent = String(hours).padStart(2, '0');\n      minutesEl.textContent = String(minutes).padStart(2, '0');\n      secondsEl.textContent = String(seconds).padStart(2, '0');\n\n      if (--timer < 0) {\n        clearInterval(interval);\n        daysEl.textContent = '00';\n        hoursEl.textContent = '00';\n        minutesEl.textContent = '00';\n        secondsEl.textContent = '00';\n      }\n    }, 1000);\n  }\n\n  document.addEventListener('DOMContentLoaded', () => {\n    const totalSeconds = 10 * 60 + 23;\n    startCountdown(totalSeconds);\n  });\n</script>"
           }
         },
         "buy-buttons": {
@@ -529,6 +537,7 @@
         "liquid_NTNQyV",
         "badges",
         "kaching_bundles_app_block_CRwtgh",
+        "image_hxgRNr",
         "image_ww7yYE",
         "rating",
         "description",
