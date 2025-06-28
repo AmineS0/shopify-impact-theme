@@ -322,19 +322,6 @@
     "multi_column_fjUXkq": {
       "type": "multi-column",
       "blocks": {
-        "item_3mCm7J": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.21.19.png",
-            "column_size": "3",
-            "title": "Anaëlle T.",
-            "heading_tag": "h4",
-            "content": "<p>\"Il a remplacé tous mes autres rouges à lèvres. Brillant, élégant, il fait tout : soin + couleur. Et le tube doré est juste canon.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_cPttAm": {
           "type": "item",
           "settings": {
@@ -361,19 +348,6 @@
             "link_style": "link"
           }
         },
-        "item_cxrkTW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.40.37.png",
-            "column_size": "3",
-            "title": "Leys.N",
-            "heading_tag": "h4",
-            "content": "<p>\"C’est devenu mon petit rituel du matin. Il hydrate, colore légèrement, et me donne meilleure mine sans aucun effort.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_h4CMbJ": {
           "type": "item",
           "settings": {
@@ -382,6 +356,19 @@
             "title": "Camille R.",
             "heading_tag": "h4",
             "content": "<p>\"J’ai les lèvres souvent sèches, mais avec celui-là je sens tout de suite l’hydratation. Il glisse tout seul et ne colle pas. Gros coup de cœur.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cxrkTW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.40.37.png",
+            "column_size": "3",
+            "title": "Leys.N",
+            "heading_tag": "h4",
+            "content": "<p>\"C’est devenu mon petit rituel du matin. Il hydrate, colore légèrement, et me donne meilleure mine sans aucun effort.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -399,15 +386,28 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_3mCm7J": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.21.19.png",
+            "column_size": "3",
+            "title": "Anaëlle T.",
+            "heading_tag": "h4",
+            "content": "<p>\"Il a remplacé tous mes autres rouges à lèvres. Brillant, élégant, il fait tout : soin + couleur. Et le tube doré est juste canon.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_3mCm7J",
         "item_cPttAm",
         "item_UDw8mU",
-        "item_cxrkTW",
         "item_h4CMbJ",
-        "item_P7JHmG"
+        "item_cxrkTW",
+        "item_P7JHmG",
+        "item_3mCm7J"
       ],
       "name": "Multi-column",
       "settings": {
