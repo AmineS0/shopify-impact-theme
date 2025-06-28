@@ -548,19 +548,6 @@
     "multi_column_XFHtNm": {
       "type": "multi-column",
       "blocks": {
-        "item_G8HCjJ": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/ugc_video_2.mp4 .MOV",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_WzDji8": {
           "type": "item",
           "settings": {
@@ -587,10 +574,10 @@
             "link_style": "link"
           }
         },
-        "item_Hw3Nxy": {
+        "item_4f9CpT": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/ugc_video_5.mp4 .MOV",
+            "video": "shopify://files/videos/ugc_video_4.mp4 .MOV",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -600,10 +587,23 @@
             "link_style": "link"
           }
         },
-        "item_4f9CpT": {
+        "item_G8HCjJ": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/ugc_video_4.mp4 .MOV",
+            "video": "shopify://files/videos/ugc_video_2.mp4 .MOV",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Hw3Nxy": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/ugc_video_5.mp4 .MOV",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -628,11 +628,11 @@
         }
       },
       "block_order": [
-        "item_G8HCjJ",
         "item_WzDji8",
         "item_B4yhwJ",
-        "item_Hw3Nxy",
         "item_4f9CpT",
+        "item_G8HCjJ",
+        "item_Hw3Nxy",
         "item_xHkVGG"
       ],
       "name": "Multi-column",
