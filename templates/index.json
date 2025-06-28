@@ -203,7 +203,6 @@
     },
     "custom_liquid_jDT9iW": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -250,24 +249,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_ERY4cG": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "image": "shopify://shop_images/OKOKAAVANT.png",
-        "mobile_image": "shopify://shop_images/avantapresfinal_9b221fcf-4927-4cd4-9c62-b5125595be51.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multi_column_fjUXkq": {
@@ -466,15 +447,6 @@
             "max_width": 410
           }
         },
-        "image_ww7yYE": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/offre_ban_50.png",
-            "alignment": "center",
-            "max_width": 280
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -538,7 +510,6 @@
         "badges",
         "kaching_bundles_app_block_CRwtgh",
         "image_hxgRNr",
-        "image_ww7yYE",
         "rating",
         "description",
         "liquid_mQAtN8",
@@ -939,7 +910,6 @@
     "custom_liquid_E8DrLa",
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
-    "image_with_text_overlay_ERY4cG",
     "multi_column_fjUXkq",
     "impact_text_7g6Kdy",
     "image_with_text_overlay_336qgm",
