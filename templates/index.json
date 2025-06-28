@@ -81,7 +81,7 @@
         "richtext_Denb69": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Notre fierté, ce sont les magazines qui parlent de nous.</p>"
+            "content": "<h6><em>Notre fierté, ce sont les magazines qui parlent de nous.</em></h6>"
           }
         }
       },
