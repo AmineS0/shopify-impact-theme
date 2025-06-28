@@ -72,18 +72,22 @@
     "rich_text_QfjmEh": {
       "type": "rich-text",
       "blocks": {
-        "heading_F9eWpH": {
-          "type": "heading",
+        "subheading_BwgVd6": {
+          "type": "subheading",
           "settings": {
-            "text": "Ils parlent de nous",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
+            "text": "Nos parutions..."
+          }
+        },
+        "richtext_Denb69": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Notre fierté, ce sont les magazines qui parlent de nous.</p>"
           }
         }
       },
       "block_order": [
-        "heading_F9eWpH"
+        "subheading_BwgVd6",
+        "richtext_Denb69"
       ],
       "name": "Rich text",
       "settings": {
