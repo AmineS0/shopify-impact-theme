@@ -215,57 +215,17 @@
         "text_color": ""
       }
     },
-    "impact_text_7g6Kdy": {
-      "type": "impact-text",
-      "blocks": {
-        "item_bygF74": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Résultats Avant/Après",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_bygF74"
-      ],
-      "name": "Impact text",
+    "custom_liquid_E8DrLa": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align: center; padding: 1px;\">\n  <h2 style=\"font-size: 24px; font-weight: 700; color: #333;\">Nos clientes en parlent le mieux</h2>\n  <p style=\"font-size: 18px; margin: 1px 0;\">\n    Excellent <strong style=\"font-size: 22px;\">4.8</strong> / 5\n  </p>\n  <div style=\"display: inline-flex; gap: 4px; margin-top: 1px;\">\n    {% for i in (1..5) %}\n      <div style=\"background-color: #00B67A; padding: 4px 6px; border-radius: 3px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"white\" width=\"16\" height=\"16\">\n          <path d=\"M12 17.3l6.18 3.9-1.64-7.03L21 9.24l-7.19-.61L12 2 10.19 8.63 3 9.24l5.46 4.93-1.64 7.03z\"/>\n        </svg>\n      </div>\n    {% endfor %}\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_336qgm": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
-        "mobile_image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "text_color": ""
       }
     },
     "rich_text_jeTzyd": {
@@ -287,19 +247,6 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_E8DrLa": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"text-align: center; padding: 1px;\">\n  <h2 style=\"font-size: 24px; font-weight: 700; color: #333;\">Nos clientes en parlent le mieux</h2>\n  <p style=\"font-size: 18px; margin: 1px 0;\">\n    Excellent <strong style=\"font-size: 22px;\">4.8</strong> / 5\n  </p>\n  <div style=\"display: inline-flex; gap: 4px; margin-top: 1px;\">\n    {% for i in (1..5) %}\n      <div style=\"background-color: #00B67A; padding: 4px 6px; border-radius: 3px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"white\" width=\"16\" height=\"16\">\n          <path d=\"M12 17.3l6.18 3.9-1.64-7.03L21 9.24l-7.19-.61L12 2 10.19 8.63 3 9.24l5.46 4.93-1.64 7.03z\"/>\n        </svg>\n      </div>\n    {% endfor %}\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -427,6 +374,59 @@
         "text_color": ""
       }
     },
+    "impact_text_7g6Kdy": {
+      "type": "impact-text",
+      "blocks": {
+        "item_bygF74": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Résultats Avant/Après",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_bygF74"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_336qgm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -460,6 +460,7 @@
         },
         "image_ww7yYE": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/offre_ban_50.png",
             "alignment": "center",
@@ -476,6 +477,12 @@
           "type": "description",
           "settings": {
             "collapse_content": false
+          }
+        },
+        "liquid_mQAtN8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align:center; margin: 20px auto;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0920/3738/2524/files/PROMO2.png?v=1751150982\" \n    alt=\"Promotion spéciale\" \n    style=\"max-width:100%; height:auto; margin-bottom:15px;\"\n  />\n\n  <div style=\"font-family:Arial, sans-serif; font-size:18px; font-weight:bold; margin-bottom:10px;\">\n    Offre limitée se termine dans :\n  </div>\n\n  <div id=\"countdown\" style=\"display:flex; justify-content:center; align-items:center; gap:10px; font-size:18px;\">\n    <div style=\"text-align:center;\">\n      <div id=\"days\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Jrs</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"hours\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Hrs</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"minutes\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Mins</div>\n    </div>\n    <div style=\"font-size:28px; font-weight:bold;\">:</div>\n    <div style=\"text-align:center;\">\n      <div id=\"seconds\" style=\"font-weight:bold; font-size:28px;\">00</div>\n      <div style=\"font-size:14px;\">Secs</div>\n    </div>\n  </div>\n</div>\n\n<script>\n  function startCountdown(duration) {\n    let timer = duration;\n\n    const daysEl = document.getElementById('days');\n    const hoursEl = document.getElementById('hours');\n    const minutesEl = document.getElementById('minutes');\n    const secondsEl = document.getElementById('seconds');\n\n    const interval = setInterval(() => {\n      const days = Math.floor(timer / 86400);\n      const hours = Math.floor((timer % 86400) / 3600);\n      const minutes = Math.floor((timer % 3600) / 60);\n      const seconds = timer % 60;\n\n      daysEl.textContent = String(days).padStart(2, '0');\n      hoursEl.textContent = String(hours).padStart(2, '0');\n      minutesEl.textContent = String(minutes).padStart(2, '0');\n      secondsEl.textContent = String(seconds).padStart(2, '0');\n\n      if (--timer < 0) {\n        clearInterval(interval);\n        daysEl.textContent = '00';\n        hoursEl.textContent = '00';\n        minutesEl.textContent = '00';\n        secondsEl.textContent = '00';\n      }\n    }, 1000);\n  }\n\n  document.addEventListener('DOMContentLoaded', () => {\n    const totalSeconds = 10 * 60 + 23;\n    startCountdown(totalSeconds);\n  });\n</script>"
           }
         },
         "buy-buttons": {
@@ -525,6 +532,7 @@
         "image_ww7yYE",
         "rating",
         "description",
+        "liquid_mQAtN8",
         "buy-buttons",
         "liquid_hMefA9",
         "image_iCYzJN",
