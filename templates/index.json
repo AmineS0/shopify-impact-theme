@@ -239,110 +239,6 @@
         "text_color": ""
       }
     },
-    "multi_column_fjUXkq": {
-      "type": "multi-column",
-      "blocks": {
-        "item_cPttAm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.45.07.png",
-            "column_size": "3",
-            "title": "Clara L.",
-            "heading_tag": "h4",
-            "content": "<p>« Si vous cherchez le combo parfait hydratation + couleur, ne cherchez plus. Dès la première application, mes lèvres sont repulpées, la couleur reste intacte et j’ai passé la journée à sourire sans faire gaffe. »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_UDw8mU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.51.03.png",
-            "column_size": "3",
-            "title": "Jade C.",
-            "heading_tag": "h4",
-            "content": "<p>« J’ai testé des tas de rouges, mais là, c’est la révélation : fini les lèvres qui craquent, bonjour l’éclat et le volume naturel. Mes amis ne tarissent pas d’éloges, et moi je suis fan ! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_h4CMbJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.22.44.png",
-            "column_size": "3",
-            "title": "Camille R.",
-            "heading_tag": "h4",
-            "content": "<p>« Dès la première application, j’ai senti une sensation de confort et d’hydratation prolongée. Mes lèvres ne craquent plus et le fini est parfaitement naturel. Je ne peux plus m’en passer. »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cxrkTW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.40.37.png",
-            "column_size": "3",
-            "title": "Leys.N",
-            "heading_tag": "h4",
-            "content": "<p>« J’adore son parfum léger et gourmand, et la texture fondante est un vrai plaisir à appliquer. Résultat : un sourire éclatant qui attire tous les regards. »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_P7JHmG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.36.09.png",
-            "column_size": "3",
-            "title": "Santia.V",
-            "heading_tag": "h4",
-            "content": "<p>« À 58 ans, je pensais ne plus retrouver de volume au niveau des lèvres. Ce rouge m’a prouvé le contraire : pulpeuses, lisses et lumineuses… on dirait que j’ai retrouvé 20 ans ! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3mCm7J": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.21.19.png",
-            "column_size": "3",
-            "title": "Anaëlle T.",
-            "heading_tag": "h4",
-            "content": "<p>« Il a transformé ma routine beauté : hydratation intense, couleur juste parfaite et confort absolu. Je l’applique les yeux fermés, je ne peux plus m’en passer ! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_cPttAm",
-        "item_UDw8mU",
-        "item_h4CMbJ",
-        "item_cxrkTW",
-        "item_P7JHmG",
-        "item_3mCm7J"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -475,6 +371,110 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_fjUXkq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_cPttAm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.45.07.png",
+            "column_size": "3",
+            "title": "Clara L.",
+            "heading_tag": "h4",
+            "content": "<p>« Si vous cherchez le combo parfait hydratation + couleur, ne cherchez plus. Dès la première application, mes lèvres sont repulpées, la couleur reste intacte et j’ai passé la journée à sourire sans faire gaffe. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UDw8mU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.51.03.png",
+            "column_size": "3",
+            "title": "Jade C.",
+            "heading_tag": "h4",
+            "content": "<p>« J’ai testé des tas de rouges, mais là, c’est la révélation : fini les lèvres qui craquent, bonjour l’éclat et le volume naturel. Mes amis ne tarissent pas d’éloges, et moi je suis fan ! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_h4CMbJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.22.44.png",
+            "column_size": "3",
+            "title": "Camille R.",
+            "heading_tag": "h4",
+            "content": "<p>« Dès la première application, j’ai senti une sensation de confort et d’hydratation prolongée. Mes lèvres ne craquent plus et le fini est parfaitement naturel. Je ne peux plus m’en passer. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cxrkTW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.40.37.png",
+            "column_size": "3",
+            "title": "Leys.N",
+            "heading_tag": "h4",
+            "content": "<p>« J’adore son parfum léger et gourmand, et la texture fondante est un vrai plaisir à appliquer. Résultat : un sourire éclatant qui attire tous les regards. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_P7JHmG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.36.09.png",
+            "column_size": "3",
+            "title": "Santia.V",
+            "heading_tag": "h4",
+            "content": "<p>« À 58 ans, je pensais ne plus retrouver de volume au niveau des lèvres. Ce rouge m’a prouvé le contraire : pulpeuses, lisses et lumineuses… on dirait que j’ai retrouvé 20 ans ! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3mCm7J": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_23.21.19.png",
+            "column_size": "3",
+            "title": "Anaëlle T.",
+            "heading_tag": "h4",
+            "content": "<p>« Il a transformé ma routine beauté : hydratation intense, couleur juste parfaite et confort absolu. Je l’applique les yeux fermés, je ne peux plus m’en passer ! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_cPttAm",
+        "item_UDw8mU",
+        "item_h4CMbJ",
+        "item_cxrkTW",
+        "item_P7JHmG",
+        "item_3mCm7J"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "rich_text_Cy6zHc": {
@@ -915,11 +915,11 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
+    "featured-product",
     "custom_liquid_E8DrLa",
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
     "multi_column_fjUXkq",
-    "featured-product",
     "rich_text_Cy6zHc",
     "multi_column_XFHtNm",
     "rich_text_fGpUB3",
