@@ -49,6 +49,7 @@
         "message_pd6npJ",
         "message_CVQqBB"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": true,
         "text_size": "text-base",
