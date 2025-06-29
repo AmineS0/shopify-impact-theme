@@ -34,7 +34,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bannerfinal.png",
+            "image": "shopify://shop_images/ZOUMY_BANNER.png",
             "mobile_image": "shopify://shop_images/ZOUMY_BANNER.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
