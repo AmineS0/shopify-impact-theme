@@ -388,6 +388,10 @@
             "show_empty": false
           }
         },
+        "separator_XFBAAi": {
+          "type": "separator",
+          "settings": {}
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -446,6 +450,7 @@
         "kaching_bundles_app_block_CRwtgh",
         "image_hxgRNr",
         "rating",
+        "separator_XFBAAi",
         "description",
         "liquid_mQAtN8",
         "buy-buttons",
