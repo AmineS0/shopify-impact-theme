@@ -537,6 +537,29 @@
         "input_text_color": ""
       }
     },
+    "rich_text_Cy6zHc": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_LGXx9K": {
+          "type": "subheading",
+          "settings": {
+            "text": "Plus de 1122 femmes l’ont adopté, et vous ?"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_LGXx9K"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_XFHtNm": {
       "type": "multi-column",
       "blocks": {
@@ -914,6 +937,7 @@
     "impact_text_7g6Kdy",
     "image_with_text_overlay_336qgm",
     "featured-product",
+    "rich_text_Cy6zHc",
     "multi_column_XFHtNm",
     "image_with_text_overlay_QV6mjk",
     "rich_text_YhdGcR",
