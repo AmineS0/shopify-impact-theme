@@ -489,14 +489,25 @@
     "rich_text_Cy6zHc": {
       "type": "rich-text",
       "blocks": {
+        "heading_aFF3Vz": {
+          "type": "heading",
+          "settings": {
+            "text": "Plus de 1122 femmes l’ont adopté, et vous ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "subheading_LGXx9K": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Plus de 1122 femmes l’ont adopté, et vous ?"
           }
         }
       },
       "block_order": [
+        "heading_aFF3Vz",
         "subheading_LGXx9K"
       ],
       "name": "Rich text",
@@ -613,40 +624,30 @@
         "text_color": ""
       }
     },
-    "impact_text_7g6Kdy": {
-      "type": "impact-text",
+    "rich_text_fGpUB3": {
+      "type": "rich-text",
       "blocks": {
-        "item_bygF74": {
-          "type": "item",
+        "heading_VTNJdm": {
+          "type": "heading",
           "settings": {
-            "title": "",
-            "subheading": "Résultats Avant/Après",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "text": "Nos résultats",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_bygF74"
+        "heading_VTNJdm"
       ],
-      "name": "Impact text",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": ""
       }
     },
     "image_with_text_overlay_336qgm": {
@@ -720,8 +721,8 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "Ingrédients testés cliniquement",
-        "title": "",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -939,7 +940,7 @@
     "featured-product",
     "rich_text_Cy6zHc",
     "multi_column_XFHtNm",
-    "impact_text_7g6Kdy",
+    "rich_text_fGpUB3",
     "image_with_text_overlay_336qgm",
     "multi_column_rPdVAr",
     "image_with_text_overlay_QV6mjk",
