@@ -58,7 +58,7 @@
         "slide-1"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": true,
         "image_size": "auto",
         "controls_type": "none",
@@ -485,57 +485,27 @@
         "input_text_color": ""
       }
     },
-    "impact_text_7g6Kdy": {
-      "type": "impact-text",
+    "rich_text_Cy6zHc": {
+      "type": "rich-text",
       "blocks": {
-        "item_bygF74": {
-          "type": "item",
+        "subheading_LGXx9K": {
+          "type": "subheading",
           "settings": {
-            "title": "",
-            "subheading": "Résultats Avant/Après",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "text": "Plus de 1122 femmes l’ont adopté, et vous ?"
           }
         }
       },
       "block_order": [
-        "item_bygF74"
+        "subheading_LGXx9K"
       ],
-      "name": "Impact text",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_336qgm": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "sm",
-        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
-        "mobile_image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "text_color": ""
       }
     },
     "multi_column_XFHtNm": {
@@ -642,27 +612,57 @@
         "text_color": ""
       }
     },
-    "rich_text_Cy6zHc": {
-      "type": "rich-text",
+    "impact_text_7g6Kdy": {
+      "type": "impact-text",
       "blocks": {
-        "subheading_LGXx9K": {
-          "type": "subheading",
+        "item_bygF74": {
+          "type": "item",
           "settings": {
-            "text": "Plus de 1122 femmes l’ont adopté, et vous ?"
+            "title": "",
+            "subheading": "Résultats Avant/Après",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "subheading_LGXx9K"
+        "item_bygF74"
       ],
-      "name": "Rich text",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_336qgm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_rPdVAr": {
