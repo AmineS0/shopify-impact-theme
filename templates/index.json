@@ -693,24 +693,6 @@
         "text_color": ""
       }
     },
-    "impact-text": {
-      "type": "impact-text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "multi_column_rPdVAr": {
       "type": "multi-column",
       "blocks": {
@@ -771,6 +753,24 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image-with-text-overlay": {
@@ -939,10 +939,10 @@
     "featured-product",
     "rich_text_Cy6zHc",
     "multi_column_XFHtNm",
+    "multi_column_rPdVAr",
     "image_with_text_overlay_QV6mjk",
     "rich_text_YhdGcR",
     "impact-text",
-    "multi_column_rPdVAr",
     "image-with-text-overlay",
     "image_with_text_overlay_YdT3P8",
     "press",
