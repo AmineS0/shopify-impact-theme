@@ -391,23 +391,6 @@
         "button_text_color": ""
       }
     },
-    "image_with_text_overlay_336qgm": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
-        "mobile_image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -535,6 +518,23 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_336qgm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_image": "shopify://shop_images/AVAPRES_7a92ec6d-470b-4b30-9a35-323d610687ef.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_Cy6zHc": {
@@ -934,9 +934,9 @@
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
     "multi_column_fjUXkq",
+    "featured-product",
     "impact_text_7g6Kdy",
     "image_with_text_overlay_336qgm",
-    "featured-product",
     "rich_text_Cy6zHc",
     "multi_column_XFHtNm",
     "multi_column_rPdVAr",
