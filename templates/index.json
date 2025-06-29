@@ -34,7 +34,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BANNER_CHAP.png",
+            "image": "shopify://shop_images/FINISH_BANNER.png",
             "mobile_image": "shopify://shop_images/BANNER_CHAP.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
@@ -197,6 +197,30 @@
         "mobile_image": "shopify://shop_images/finish_benef.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "video_cY4Hbq": {
+      "type": "video",
+      "blocks": {
+        "play_7KFE34": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_7KFE34"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/ugc_video_3.mp4 .MOV",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -915,6 +939,7 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
+    "video_cY4Hbq",
     "featured-product",
     "custom_liquid_E8DrLa",
     "rich_text_jeTzyd",
