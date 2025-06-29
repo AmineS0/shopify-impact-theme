@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "page_width": 1400,
+    "page_width": 1800,
     "section_vertical_spacing": "large",
     "section_boxed_horizontal_spacing": "small",
     "button_border_radius": 60,
@@ -36,6 +36,7 @@
     "show_page_transition": true,
     "zoom_image_on_hover": true,
     "heading_apparition": "split_fade",
+    "color_swatch_style": "round",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
