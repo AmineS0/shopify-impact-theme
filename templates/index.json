@@ -35,20 +35,20 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/bannerfinal.png",
-            "mobile_image": "shopify://shop_images/bannerfinishshopify.png",
+            "mobile_image": "shopify://shop_images/ZOUMY_BANNER.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
-            "title": "Lèvres ternes ? Offrez-leur le luxe qu’elles méritent avant la fin de l’édition limitée !",
+            "title": "",
             "heading_tag": "h3",
             "button_text": "",
-            "button_link": "",
+            "button_link": "shopify://products/zoumy™-golden-touch-rouge-a-levres-hydratant-a-la-feuille-dor",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 32,
+            "overlay_opacity": 0,
             "background": "#ffffff",
             "background_gradient": ""
           }
@@ -355,42 +355,6 @@
         "text_color": ""
       }
     },
-    "impact_text_7g6Kdy": {
-      "type": "impact-text",
-      "blocks": {
-        "item_bygF74": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Résultats Avant/Après",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_bygF74"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -518,6 +482,42 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "impact_text_7g6Kdy": {
+      "type": "impact-text",
+      "blocks": {
+        "item_bygF74": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Résultats Avant/Après",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_bygF74"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image_with_text_overlay_336qgm": {
