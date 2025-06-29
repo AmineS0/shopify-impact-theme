@@ -797,7 +797,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "md",
+        "image_size": "auto",
         "image": "shopify://shop_images/SATISFAIT.png",
         "mobile_image": "shopify://shop_images/finishBANNER.png",
         "mobile_text_position": "place-self-center text-center",
