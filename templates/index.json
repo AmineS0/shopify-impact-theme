@@ -377,9 +377,9 @@
         "image_hxgRNr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PROMO2.png",
+            "image": "shopify://shop_images/offre_ete_19.png",
             "alignment": "center",
-            "max_width": 410
+            "max_width": 500
           }
         },
         "rating": {
