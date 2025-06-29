@@ -11,6 +11,31 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "shopify://shop_images/ZOUMYlogo.png",
+        "logo_max_width": 200,
+        "logo_mobile_max_width": 150,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "hover",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": false,
+        "background_opacity": 100,
+        "background_blur_radius": 20
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -57,31 +82,6 @@
         "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
-      }
-    },
-    "header": {
-      "type": "header",
-      "settings": {
-        "enable_sticky": true,
-        "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ZOUMYlogo.png",
-        "logo_max_width": 200,
-        "logo_mobile_max_width": 150,
-        "menu": "main-menu",
-        "sidebar_menu": "",
-        "secondary_menu": "",
-        "menu_open_trigger": "hover",
-        "opening_from": "bottom",
-        "layout": "logo_left_navigation_center",
-        "show_social_media": true,
-        "show_locale_selector": true,
-        "show_country_selector": true,
-        "show_country_flag": true,
-        "show_country_name": true,
-        "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
-        "background_opacity": 100,
-        "background_blur_radius": 20
       }
     }
   },

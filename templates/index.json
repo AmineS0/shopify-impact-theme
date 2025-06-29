@@ -202,6 +202,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_XWPTqc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4X79Lr": {
+          "type": "heading",
+          "settings": {
+            "text": "La couleur qui s’adapte à vous",
+            "heading_tag": "h6",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4X79Lr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_cY4Hbq": {
       "type": "video",
       "blocks": {
@@ -783,22 +809,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/AVIS_2.png",
-        "mobile_image": "shopify://shop_images/DOCTEUR2.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_with_text_overlay_YdT3P8": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -939,6 +949,7 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
+    "rich_text_XWPTqc",
     "video_cY4Hbq",
     "featured-product",
     "custom_liquid_E8DrLa",
@@ -953,7 +964,6 @@
     "image_with_text_overlay_QV6mjk",
     "rich_text_YhdGcR",
     "impact-text",
-    "image-with-text-overlay",
     "image_with_text_overlay_YdT3P8",
     "press",
     "faq",
