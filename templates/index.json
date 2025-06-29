@@ -35,7 +35,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_CHAP.png",
-            "mobile_image": "shopify://shop_images/BANNER_CHAP.png",
+            "mobile_image": "shopify://shop_images/ZOUMY_BANNER.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
