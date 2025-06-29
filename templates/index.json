@@ -163,6 +163,7 @@
       "blocks": {
         "heading_m7YAAd": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Pourquoi choisir le rouge à lèvres Zoumy Rosy Glow?",
             "heading_tag": "h5",
