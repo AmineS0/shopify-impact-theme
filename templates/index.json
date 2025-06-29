@@ -193,50 +193,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/finish_angle_c608a7cd-553a-4354-97ad-4a52ec61de7b.png",
-        "mobile_image": "shopify://shop_images/finish_angle_c608a7cd-553a-4354-97ad-4a52ec61de7b.png",
+        "image": "shopify://shop_images/finish_benef.png",
+        "mobile_image": "shopify://shop_images/finish_benef.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "custom_liquid_E8DrLa": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"text-align: center; padding: 1px;\">\n  <h2 style=\"font-size: 24px; font-weight: 700; color: #333;\">Nos clientes en parlent le mieux</h2>\n  <p style=\"font-size: 18px; margin: 1px 0;\">\n    Excellent <strong style=\"font-size: 22px;\">4.8</strong> / 5\n  sur Trustpilot</p>\n  <div style=\"display: inline-flex; gap: 4px; margin-top: 1px;\">\n    {% for i in (1..5) %}\n      <div style=\"background-color: #00B67A; padding: 4px 6px; border-radius: 3px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"white\" width=\"16\" height=\"16\">\n          <path d=\"M12 17.3l6.18 3.9-1.64-7.03L21 9.24l-7.19-.61L12 2 10.19 8.63 3 9.24l5.46 4.93-1.64 7.03z\"/>\n        </svg>\n      </div>\n    {% endfor %}\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_jeTzyd": {
-      "type": "rich-text",
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_EY3ehM": {
-      "type": "rich-text",
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "featured-product": {
@@ -371,6 +334,43 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "custom_liquid_E8DrLa": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align: center; padding: 1px;\">\n  <h2 style=\"font-size: 24px; font-weight: 700; color: #333;\">Nos clientes en parlent le mieux</h2>\n  <p style=\"font-size: 18px; margin: 1px 0;\">\n    Excellent <strong style=\"font-size: 22px;\">4.8</strong> / 5\n  sur Trustpilot</p>\n  <div style=\"display: inline-flex; gap: 4px; margin-top: 1px;\">\n    {% for i in (1..5) %}\n      <div style=\"background-color: #00B67A; padding: 4px 6px; border-radius: 3px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"white\" width=\"16\" height=\"16\">\n          <path d=\"M12 17.3l6.18 3.9-1.64-7.03L21 9.24l-7.19-.61L12 2 10.19 8.63 3 9.24l5.46 4.93-1.64 7.03z\"/>\n        </svg>\n      </div>\n    {% endfor %}\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_jeTzyd": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_EY3ehM": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_fjUXkq": {
