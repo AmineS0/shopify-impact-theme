@@ -202,20 +202,6 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_jDT9iW": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!-- Vidéo carrée, compacte, centrée, avec petit titre -->\n<div style=\"display: flex; justify-content: center; padding: 32px 0;\">\n  <div style=\"max-width: 320px; width: 100%; text-align: center;\">\n    <h2 style=\"font-size: 16px; font-weight: 600; margin-bottom: 12px;\">\n         \nUne touche de magie sur vos lèvres, démonstration par Nathalie G.\n\n    </h2>\n    <div style=\"position: relative; width: 100%; padding-top: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);\">\n      <video autoplay muted loop playsinline style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/ae718eb6e53e47d188a665a13624605e.mov\" type=\"video/mp4\">\n        Votre navigateur ne supporte pas la lecture de cette vidéo.\n      </video>\n    </div>\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_E8DrLa": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -497,18 +483,10 @@
             "text_color": "",
             "gradient": ""
           }
-        },
-        "subheading_LGXx9K": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Plus de 1122 femmes l’ont adopté, et vous ?"
-          }
         }
       },
       "block_order": [
-        "heading_aFF3Vz",
-        "subheading_LGXx9K"
+        "heading_aFF3Vz"
       ],
       "name": "Rich text",
       "settings": {
@@ -932,7 +910,6 @@
     "logo_list_BADGxM",
     "rich_text_f6LzgK",
     "image_with_text_overlay_nAchrj",
-    "custom_liquid_jDT9iW",
     "custom_liquid_E8DrLa",
     "rich_text_jeTzyd",
     "rich_text_EY3ehM",
