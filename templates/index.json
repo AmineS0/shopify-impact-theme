@@ -290,12 +290,6 @@
           "type": "badges",
           "settings": {}
         },
-        "kaching_bundles_app_block_CRwtgh": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "image_hxgRNr": {
           "type": "image",
           "settings": {
@@ -369,7 +363,6 @@
         "liquid_4a8NUk",
         "liquid_NTNQyV",
         "badges",
-        "kaching_bundles_app_block_CRwtgh",
         "image_hxgRNr",
         "rating",
         "separator_XFBAAi",
@@ -383,7 +376,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "zoumy™-golden-touch-rouge-a-levres-hydratant-a-la-feuille-dor",
+        "product": "zoumy™-levres-sublimes-au-naturel",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
@@ -910,23 +903,6 @@
     },
     "17505472638f92f7bc": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_LXRCwg": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_LXRCwg"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
